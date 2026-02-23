@@ -14,6 +14,7 @@ def notebook_to_python(notebook_path):
 
 # In test file
 import importlib.util
+import unittest
 import sys
 
 def import_notebook_module(notebook_path):
@@ -31,7 +32,7 @@ def import_notebook_module(notebook_path):
 
 # Then use in tests
 assignment = import_notebook_module('assignment.ipynb')
-
+print(assignment)
 def test_while_loop_even_numbers(capsys):
     """Test the while loop for printing even numbers up to 16"""
     assignment.while_loop()
